@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "455817943202",
+    "firebase_url": "https://foodrecommendation-19c8d.firebaseio.com",
+    "project_id": "foodrecommendation-19c8d",
+    "storage_bucket": "foodrecommendation-19c8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455817943202:android:41f395393351d927",
+        "android_client_info": {
+          "package_name": "com.example.foodrecommendation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455817943202-8s6rag8sncbl1ko8v3jv254r7181qf3i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodrecommendation",
+            "certificate_hash": "0e86e732e4601898b77c212d9414cf472b5af7be"
+          }
+        },
+        {
+          "client_id": "455817943202-fmd032bpudvj6t3trsddvhiopcqemjki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1u94_mn2-vZM_wTcEzvWMej4aI823J4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455817943202-fmd032bpudvj6t3trsddvhiopcqemjki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
